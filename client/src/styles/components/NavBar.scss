@@ -1,7 +1,6 @@
 .dropdown-menu .dropdown-list{
   background-color: transparent;
 }
-
 .no-decoration{
   text-decoration: none;
   color: white;
@@ -10,15 +9,12 @@
     background-color: $navy;
   }
 }
-
 nav{
   display: flex;
-  max-width: 100%;
+  width: 100%;
   justify-content: space-around;
   font-family: $font-f-base;
 }
-
-
 .dropdown-list {
   display: flex;
   flex-direction: column;
@@ -30,12 +26,10 @@ nav{
     margin: 2px;
   }
 }
-
 .dropdown-menu.show{
   box-shadow: 0 0 3px white;
   background: transparent;
 }
-
 .logout-btn{
   &:hover{
     cursor: pointer;
