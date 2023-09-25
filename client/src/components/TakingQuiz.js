@@ -78,7 +78,6 @@ export default function TakingQuiz( { token, setShowAll, setId, reload, setReloa
     setQuestionId()
     setPopup(false)
   }
-  //comment
   function clickedNo(){
     setPopup(false)
   }
