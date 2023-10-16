@@ -24,7 +24,7 @@ For this project, a challenge was definitely communication. Working remotely wit
 Another challenge was designing the error handling in such a way that the user is kept in the loop about what is going on ‘behind the scenes’, and knows what went wrong in case something does. 
 We initially wanted to make it possible for users to not only create different questions, but also quizzes. However, we limited the possible actions to creating, updating and deleting questions because we were worried too many quizzes would start to be created, which could make the app quite unpleasant to use. 
 
-We created a wireframe with excalidraw: \\
+We created a wireframe with excalidraw: \
 
 ![image](https://github.com/NLie2/sei-quizzapp/assets/99728936/f1a659d1-5954-4f5c-b734-1e663d255997)
 ![image](https://github.com/NLie2/sei-quizzapp/assets/99728936/b8be9a60-4f1f-4714-a2bb-319db079390e)
